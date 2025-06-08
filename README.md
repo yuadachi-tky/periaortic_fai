@@ -1,7 +1,7 @@
 # Periaortic_fai
 
 ## Overview
-Periaortic_fai automates the process of recognizing the aorta in CT images, tracing the vessel wall, and measuring the average CT value of adipose tissue beyond the vessel wall.
+Periaortic_fai automates the process of recognizing the aorta in CT images, tracing the vessel wall, and measuring the average CT value of adipose tissue around the vessel wall.
 
 
 ## Usage
